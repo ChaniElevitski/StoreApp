@@ -1,0 +1,23 @@
+{
+    "pastries": [
+       
+        { "name": "Palmiers 8 pieces", "description": "  Flaky and crispy French pastries made of puff pastry, also known as elephant ears.", "price": 45 , "img": "/assets/pah.jpg" },
+        { "name": "Brownies  15 pieces", "description": " Rich and fudgy chocolate squares, perfect for chocolate lovers.", "price": 45 , "img": "/assets/brauniz.jpg" },
+        { "name": "Chocolate Chip Cookies 8 pieces", "description": "  Soft and low milk chocolate chip cookies.", "price": 45 , "img": "/assets/choko_cokies.jpg "},
+        { "name": "Snow Cookies  8 pieces", "description": "Snowy cookies with loads of sugar in your mouth.", "price": 45, "img": "/assets/reida.jpg"},
+       
+        { "name": "Blondie Croissant", "description": "Croissant filled with a sweet and creamy blondie filling.", "price": 17, "img": "/assets/kro_blondi.jpg" },
+        { "name": "Butter Croissant", "description": "Classic French croissant made with butter for a flaky and buttery texture.", "price": 17, "img": "/assets/kro.JPG "},
+        { "name": "Mekupelet Croissant", "description": "Croissant filled with a sweet and creamy mekupelet filling.", "price": 17, "img": "/assets/kromekupelet.jpg"},
+  {"name": "Strawberries Croissant", "description": "Croissant filled with a sweet and creamy strawberries filling.", "price": 17, "img": "/assets/krotutim.jpg"},
+  { "name": "Alfajores 8 pieces", "description": "Delicious Argentine sandwich cookies filled with dulce de leche and coated with chocolate or powdered sugar.", "price":45, "img": "/assets/alpahores.png"},
+  { "name": "Macarons 10 pieces", "description": "French delicacies made of two meringue-based shells filled with ganache, buttercream, or jam.", "price": 40, "img": "/assets/makarunim.jpg" },
+  { "name": "Red Velvet Cookies 6 pieces", "description": "Soft and chewy cookies with a hint of cocoa and cream cheese frosting.", "price": 45, "img": "/assets/red.jpg" },
+  { "name": "Amsterdam Cookies 8 pieces", "description": "Buttery cookies filled with almond paste and topped with slivered almonds.", "price": 55, "img": "/assets/amsterdam.jpg" },
+    { "name": "Lotus Cake", "description": "A dreamy lotus cake with caramel and cream flavors.", "price": 140, "img": "/assets/lotus.jpg"},
+ { "name": "Magnum Cake", "description": "Magnum cake rich in layers of chocolate and cream with a particularly crunchy chocolate coating.", "price": 68, "img": "/assets/magnum.jpg"},
+{ "name": "Lemon pie", "description": "Lemon pie rich in lemon and butter with buttery crispy dough.", "price": 85, "img": "/assets/pailemon.jpg"} ,
+{ "name": "Chocolate Crunch Cake", "description": "Chocolate yeast crunch with chocolate filling and soft buttery dough.", "price": 49, "img": "/assets/shmarim.jpg"} 
+]
+
+} 
